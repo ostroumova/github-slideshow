@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+ "Fortune favours the brave"
 Use the left arrow to go back!
